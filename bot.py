@@ -42,17 +42,17 @@ async def handle_message(
     message = update.message.text
 
     if message == "📌 이용 안내":
-        answer = (
+        answer = (https://yell1.testbetingame4314.xyz 링크를 클릭해주세요
             "📌 이용 안내\n\n"
             "이곳에 서비스 이용 안내를 추가할 수 있습니다."
         )
     elif message == "❓ 자주 묻는 질문":
-        answer = (
+        answer = (이용안내
             "❓ 자주 묻는 질문\n\n"
             "자주 묻는 질문과 답변을 이곳에 추가할 수 있습니다."
         )
     elif message == "💬 문의하기":
-        answer = (
+        answer = (@bbqwc1
             "💬 문의하기\n\n"
             "문의 방법이나 담당자 연락처를 이곳에 추가할 수 있습니다."
         )
